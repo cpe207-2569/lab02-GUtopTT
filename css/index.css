@@ -1,0 +1,14 @@
+.center-head {
+  text-align: center;
+  font-style: italic;
+}
+
+.container {
+  border: solid rgb(140, 201, 210);
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1rem;
+  margin-bottom: 10px;
+}
+
